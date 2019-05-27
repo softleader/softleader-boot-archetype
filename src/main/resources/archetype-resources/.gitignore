@@ -1,0 +1,59 @@
+# General
+*.logs
+logs/
+*.NavData
+
+# Java class files
+*.class
+
+# Mobile Tools for Java(J2ME)
+.mtj.tmp/
+
+# Package files
+*.jar
+*.war
+*.ear
+
+# Virtual machine crash logs
+hs_err_pid*
+
+# STS
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+# Eclipse IDE
+.settings
+.metadata
+.project
+.classpath
+.buildpath
+Servers
+bin
+
+# Netbeans IDE
+nbactions.xml
+nb-configuration.xml
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+/build/
+
+# VS Code
+.vscode/
+
+# IntelliJ IDEA IDE
+*.iml
+*.iws
+*.ipr
+.idea/
+
+# Maven build tools
+/target/
+!.mvn/wrapper/maven-wrapper.jar
